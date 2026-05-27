@@ -6,3 +6,6 @@
 - [다형성](./CS/다형성.md)
 - [가상화](CS/가상화.md)
 - [추상화](./CS/추상화.md)
+- [Component Based Development](./CS/CBD.md)
+- [결합도](./CS/결합도.md)
+- 

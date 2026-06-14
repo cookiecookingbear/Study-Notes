@@ -13,8 +13,20 @@
 
 ## 하드웨어
 
+### CPU
 - [ALU](./CS/ALU.md)
 - [Shifter](./CS/Shifter.md)
+- [Address Bus](./CS/AddressBus.md)
+- [Control Bus](./CS/ControlBus.md)
+- [Data Bus](./CS/DataBus.md)
+- [Decoder](./CS/Decoder.md)
+- [Instruction Register](./CS/InstructionRegister.md)
+- [Memory Address Register](./CS/MemoryAddressRegister.md)
+- [Memory Buffer Register](./CS/MemoryBufferRegister.md)
+
+    > Memory Data Register(MDR)이라고도 한다.
+
+- 
 
 ## 미분류
 
@@ -32,3 +44,4 @@
 - [.dll](./CS/dll.md)
 - [Verification](./CS/Verification.md)
 - [Validation](./CS/Validation.md)
+- [Accumulator](./CS/Accumulator.md)

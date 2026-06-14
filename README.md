@@ -14,6 +14,7 @@
 ## 하드웨어
 
 ### CPU
+
 - [ALU](./CS/ALU.md)
 - [Shifter](./CS/Shifter.md)
 - [Address Bus](./CS/AddressBus.md)
@@ -23,10 +24,14 @@
 - [Instruction Register](./CS/InstructionRegister.md)
 - [Memory Address Register](./CS/MemoryAddressRegister.md)
 - [Memory Buffer Register](./CS/MemoryBufferRegister.md)
-
     > Memory Data Register(MDR)이라고도 한다.
+- [Program Counter](./CS/ProgramCounter.md)
 
-- 
+### [가상 메모리](./CS/가상메모리.md), 메모리
+
+- [가상메모리 페이징](./CS/가상메모리_페이징.md)
+- [가상메모리 디맨드 페이징](./CS/가상메모리_디맨드페이징.md)
+- [Thrashing](./CS/Thrashing.md)
 
 ## 미분류
 

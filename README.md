@@ -68,3 +68,7 @@
 - [Verification](./CS/Verification.md)
 - [Validation](./CS/Validation.md)
 - [Accumulator](./CS/Accumulator.md)
+- [명령어 사이클](./CS/명령어사이클.md)
+- [인출 사이클](./CS/인출사이클.md)
+- [인터럽트 사이클](./CS/인터럽트사이클.md)
+- [가비지 컬렉션](./CS/가비지컬렉션.md)

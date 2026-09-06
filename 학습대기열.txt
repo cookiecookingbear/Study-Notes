@@ -10,58 +10,62 @@
 9. TCB
 10. TCB_PC
 11. 프로세스와 스레드
+12. 프로세스 생성과 종료 (fork/exec, PID, 좀비·고아 프로세스)
+13. 프로세스 간 통신 (IPC)
+14. CPU 스케줄링 알고리즘
+15. 동기화, 경쟁 상태, 데드락
 
-12. 프로세스 메모리 영역
-13. 코드·데이터·힙·스택 영역
-14. 가비지 컬렉션 복습
-15. 가상 메모리 복습
-16. 가상메모리 페이징 복습
-17. Demand Paging 복습
-18. 가상메모리 관리정책 복습
-19. 캐시 지역성 복습
-20. 캐시 미스 복습
+16. 프로세스 메모리 영역
+17. 코드·데이터·힙·스택 영역
+18. 가비지 컬렉션 복습
+19. 가상 메모리 복습
+20. 가상메모리 페이징 복습
+21. Demand Paging 복습
+22. 가상메모리 관리정책 복습
+23. 캐시 지역성 복습
+24. 캐시 미스 복습
 
-21. CPU Register
-22. GPR·Flag Register·Stack Pointer
-23. Accumulator 복습
-24. Instruction Register 복습
-25. MAR 복습
-26. MBR/MDR 복습
-27. CPU 제어장치
-28. Decoder 복습
-29. ALU 복습
-30. 가산기·보수기·Shifter
-31. Address·Data·Control Bus 복습
-32. 명령어 사이클 복습
-33. 인출 사이클 복습
-34. 인터럽트 사이클 복습
+25. CPU Register
+26. GPR·Flag Register·Stack Pointer
+27. Accumulator 복습
+28. Instruction Register 복습
+29. MAR 복습
+30. MBR/MDR 복습
+31. CPU 제어장치
+32. Decoder 복습
+33. ALU 복습
+34. 가산기·보수기·Shifter
+35. Address·Data·Control Bus 복습
+36. 명령어 사이클 복습
+37. 인출 사이클 복습
+38. 인터럽트 사이클 복습
 
-35. CPU와 GPU 복습
-36. GPU
-37. RAM과 VRAM
-38. GPGPU
-39. Compute Shader
-40. CUDA
+39. CPU와 GPU 복습
+40. GPU
+41. RAM과 VRAM
+42. GPGPU
+43. Compute Shader
+44. CUDA
 
-41. 파일 포맷
-42. BMP
-43. JPG
-44. PNG
-45. TGA
-46. EXR
-47. WAV
-48. AVI
+45. 파일 포맷
+46. BMP
+47. JPG
+48. PNG
+49. TGA
+50. EXR
+51. WAV
+52. AVI
 
-49. 추상화
-50. 인터페이스 복습
-51. 추상 클래스 복습
-52. 다형성 복습
-53. 가상화 문서 재정리
-54. UML 다이어그램 복습
-55. 클래스 다이어그램 복습
-56. 결합도 복습
-57. CBD 복습
-58. 소프트웨어 생명주기 복습
-59. Verification 복습
-60. Validation 복습
-61. 해시코드 복습
+53. 추상화
+54. 인터페이스 복습
+55. 추상 클래스 복습
+56. 다형성 복습
+57. 가상화 문서 재정리
+58. UML 다이어그램 복습
+59. 클래스 다이어그램 복습
+60. 결합도 복습
+61. CBD 복습
+62. 소프트웨어 생명주기 복습
+63. Verification 복습
+64. Validation 복습
+65. 해시코드 복습
